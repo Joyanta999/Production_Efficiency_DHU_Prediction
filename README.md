@@ -1,4 +1,4 @@
-# FinalPaperV1 — rebuilt pipeline + revised manuscript
+PaperV1 — rebuilt pipeline + revised manuscript
 
 A from-scratch reimplementation of the v5 leakage-audited study, extended with
 the reviewer-requested baselines and ablations. See
